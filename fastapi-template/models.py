@@ -7,6 +7,3 @@ class MsgPayload(BaseModel):
     msg_name: str
 
 
-class error:
-    error:str
-    
